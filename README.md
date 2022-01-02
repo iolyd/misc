@@ -1,6 +1,12 @@
-# Frontend
+# Design
 
-# Backend
+## Free fonts
+
+https://velvetyne.fr/
+
+# Frontend dev
+
+# Backend dev
 
 These are _free_ backend resources that facilitate the setup and management of a database, user authentication, and more:
 
