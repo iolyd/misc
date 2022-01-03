@@ -6,6 +6,8 @@ https://velvetyne.fr/
 
 https://usemodify.com/
 
+https://www.theleagueofmoveabletype.com/
+
 # Frontend dev
 
 # Backend dev
