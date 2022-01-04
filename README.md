@@ -8,6 +8,8 @@ https://usemodify.com/
 
 https://www.theleagueofmoveabletype.com/
 
+https://open-foundry.com/fonts
+
 # Frontend dev
 
 # Backend dev
