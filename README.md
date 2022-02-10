@@ -1,14 +1,12 @@
 # Design
 
-## Free fonts
+## Free / open-source fonts
 
-https://velvetyne.fr/
-
-https://usemodify.com/
-
-https://www.theleagueofmoveabletype.com/
-
-https://open-foundry.com/fonts
+- https://velvetyne.fr/
+- https://usemodify.com/
+- https://www.theleagueofmoveabletype.com/
+- https://open-foundry.com/fonts
+- https://fontain.org/
 
 # Frontend dev
 
