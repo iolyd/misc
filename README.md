@@ -7,6 +7,8 @@
 - https://www.theleagueofmoveabletype.com/
 - https://open-foundry.com/fonts
 - https://fontain.org/
+- http://collletttivo.it/?ref=uncut.wtf
+- https://uncut.wtf/
 
 # Frontend dev
 
